@@ -1,0 +1,79 @@
+Nivel Básico
+
+1.Factorial
+
+Escribe una función recursiva que calcule el factorial de un número ( n ) (( n! )).
+Ejemplo: ( 5! = 5 x 4 x 3 x 2 x 1 = 120 ).
+
+2.Sumatoria de números
+
+Escribe una función recursiva que calcule la suma de los números del 1 al ( n ).
+Ejemplo: suma(5) = 1 + 2 + 3 + 4 + 5 = 15.
+
+3.Imprimir números en orden inverso
+
+Escribe una función recursiva que reciba un número ( n ) y lo imprima en orden descendente.
+Ejemplo: Para ( n = 5 ), salida: 5, 4, 3, 2, 1.
+
+4.Potencia
+
+Escribe una función recursiva para calcular ( a^b ), donde ( a ) es la base y ( b ) el exponente.
+Ejemplo: potencia(2, 3) = 8.
+
+---
+
+Nivel Intermedio
+
+5.Secuencia de Fibonacci
+
+Escribe una función recursiva para obtener el ( n )-ésimo término de la serie de Fibonacci.
+Ejemplo: fibonacci(5) = 5 (secuencia: 0, 1, 1, 2, 3, 5).
+
+6.Invertir una cadena
+
+Escribe una función recursiva que invierta una cadena de texto.
+Ejemplo: invertir("recursivo") → "ovisrucer".
+
+7.Sumar dígitos de un número
+
+Escribe una función recursiva que sume los dígitos de un número.
+Ejemplo: sumaDigitos(123) = 1 + 2 + 3 = 6.
+
+8.Conteo de ceros en un número
+
+Escribe una función recursiva que cuente cuántos ceros tiene un número.
+Ejemplo: contarCeros(102030) = 3.
+
+--- 
+Nivel Avanzado
+
+9.Buscar un elemento en un arreglo
+
+Escribe una función recursiva que determine si un número está en un arreglo.
+Ejemplo: buscar([1, 3, 5, 7], 5) → true.
+
+10.Torre de Hanói
+
+Implementa la solución al problema clásico de la Torre de Hanói para ( n ) discos.
+
+11.Contar subconjuntos
+
+Escribe una función recursiva que cuente el número de subconjuntos posibles de un conjunto dado.
+Ejemplo: subconjuntos({1, 2, 3}) = 8 (vacío incluido).
+
+12.Permutaciones de una cadena
+
+Escribe una función recursiva que genere todas las permutaciones posibles de una cadena.
+Ejemplo: permutaciones("abc") → {"abc", "acb", "bac", "bca", "cab", "cba"}.
+
+13.Sumar elementos en una matriz 2D
+
+Escribe una función recursiva que sume todos los elementos de una matriz bidimensional.
+
+14.Evaluar una expresión matemática simple
+
+Escribe una función recursiva que evalúe una expresión matemática como "2+3*4".
+
+15.Resolver un laberinto
+
+Implementa una función recursiva para encontrar la salida en un laberinto representado por una matriz.
