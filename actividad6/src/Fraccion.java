@@ -4,9 +4,8 @@ public class Fraccion {
 
     /**
      *  Atributos privados para evitar que los datos
-     *  puedan ser modificados y esten protegidosd. De esta forma solo se podrá tener acceso mediante
+     *  puedan ser modificados y esten protegidos. De esta forma solo se podrá tener acceso mediante
      *  los métodos creados para ello (Getters y Setters)
-     
      */
 
     private int numerador;
