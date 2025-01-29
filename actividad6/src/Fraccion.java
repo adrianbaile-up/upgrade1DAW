@@ -1,5 +1,14 @@
 import java.util.Scanner;
 
+/**
+ 
+    @author AdrianBaileCampos
+    @version 1.0
+    @since 2025-01-29
+
+ 
+ */
+
 public class Fraccion {
 
     /**
